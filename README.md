@@ -1,13 +1,23 @@
-# PZ-GOF
+# PZ-GOF Patterns
 
-## Патерни:
+## Реалізовані патерни:
+
+### Creational
 - Factory Method
 - Singleton
+
+### Structural
 - Adapter
 - Facade
+
+### Behavioral
 - Strategy
 - Observer
 
-## Запуск:
-npm install  
-npm start
+---
+
+## Як запустити
+
+```bash
+npm install
+npm run start
